@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/ideacarabajalreact/static/css/main.073c9b0a.css",
-    "main.js": "/ideacarabajalreact/static/js/main.26311147.js",
+    "main.css": "/ideacarabajalreact/static/css/main.6c813165.css",
+    "main.js": "/ideacarabajalreact/static/js/main.ceb64fbf.js",
     "static/js/787.0712b877.chunk.js": "/ideacarabajalreact/static/js/787.0712b877.chunk.js",
-    "static/media/logo.svg": "/ideacarabajalreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ideacarabajalreact/index.html",
-    "main.073c9b0a.css.map": "/ideacarabajalreact/static/css/main.073c9b0a.css.map",
-    "main.26311147.js.map": "/ideacarabajalreact/static/js/main.26311147.js.map",
+    "main.6c813165.css.map": "/ideacarabajalreact/static/css/main.6c813165.css.map",
+    "main.ceb64fbf.js.map": "/ideacarabajalreact/static/js/main.ceb64fbf.js.map",
     "787.0712b877.chunk.js.map": "/ideacarabajalreact/static/js/787.0712b877.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.26311147.js"
+    "static/css/main.6c813165.css",
+    "static/js/main.ceb64fbf.js"
   ]
 }
